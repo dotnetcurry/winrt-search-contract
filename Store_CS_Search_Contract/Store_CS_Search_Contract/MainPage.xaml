@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="Store_CS_Search_Contract.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Store_CS_Search_Contract"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock HorizontalAlignment="Left" Height="692" Margin="206,46,0,0" 
+                   TextWrapping="Wrap" 
+                   Text="Take the Mouse Cursor to the top right, the Charm Contract will be displayed. Select the Search, you will get the Search Contract." 
+                   FontFamily="Segoe UI" FontSize="80"
+                   VerticalAlignment="Top" 
+                   Width="1084"/>
+
+    </Grid>
+</Page>
